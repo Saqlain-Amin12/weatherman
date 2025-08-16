@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 # Install an individual package  
 
-pip install <package-name>
+pip install (package-name)
 
 
 **Example:**  
@@ -79,4 +79,5 @@ pip install colorama
 
 3. Deactivate the Virtual Environment
   deactivate
+
 
